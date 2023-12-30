@@ -148,7 +148,7 @@
       },
       {
         "type": "minecraft:wither",
-        "maxCount": 10,
+        "maxCount": 1,
         "minCount": 1,
         "weight": 1
       },
